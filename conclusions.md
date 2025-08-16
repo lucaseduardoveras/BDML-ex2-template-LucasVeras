@@ -1,2 +1,3 @@
 # Write here a short conclusion of the exercise. That is, answer in less than 
 50 words the last two questions of the notebook of today's class.
+The elimination of ifluential observations has diminished the magnitude of the mean income coefficient and turned the male coefficient to be insignificant. Once we delete the outlier observation, the male coefficient resume being significant and the mean income coefficint diminished further. This could be seen as that a few observations such as the influential ones were pushing the mean income coefficient higher, while inusual observations could also affct the magnitude of the coefficient. 
